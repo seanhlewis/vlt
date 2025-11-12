@@ -31,8 +31,8 @@ The questions we can explore:
 
 **Sketch**  
 <p align="center">
-<img height="300" src="https://github.com/user-attachments/assets/a8aa2600-d298-4a1c-8271-d537bce888ee">
-<img height="300" alt="verplan_vltpng" src="https://github.com/user-attachments/assets/4972c1b2-2ee5-419d-bac7-d4650ac73a9b" />
+<img height="250" width="400" src="https://github.com/user-attachments/assets/a8aa2600-d298-4a1c-8271-d537bce888ee">
+<img height="250" width="400" alt="verplan_vltpng" src="https://github.com/user-attachments/assets/4972c1b2-2ee5-419d-bac7-d4650ac73a9b" />
 <p align="center">
   
 One of the above sketches was made with AI as a double-meaning joke for "We trust AI for everything...", can you tell?
