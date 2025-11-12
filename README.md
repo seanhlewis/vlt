@@ -13,7 +13,7 @@ I created a conceptual and working prototype of a new clock: **VLT (Vision-Langu
 
 ## Proposal
 
-For Part 2, I propose **Vision-Language-Time (VLT)**:  
+I propose **Vision-Language-Time (VLT)**:  
 
 Instead of a standard digital or analog clock, the Raspberry Pi 5 runs a small VLM (ex. Moondream/FastVLM scale) locally. As often as it can (due to compute limitations), it captures an image from its camera and asks the VLM: *“What time is it?”*. The model outputs its “perceived time,” which is displayed on the PiTFT screen along with the ground-truth system time.  
 
